@@ -1,4 +1,4 @@
-#Angular Web Components Signals Interop
+# Angular Web Components Signals Interop
 
 This repository demonstrates a practical example of how **Angular** and **Web Components** can effectively interact using Angular Signals. This interaction model is poised to become increasingly significant with the potential approval and implementation of [TC39 Signals](https://github.com/tc39/proposal-signals) in the broader JavaScript ecosystem.
 
