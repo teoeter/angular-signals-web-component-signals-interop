@@ -2,6 +2,8 @@
 
 This repository demonstrates a practical example of how **Angular** and **Web Components** can effectively interact using Angular Signals. This interaction model is poised to become increasingly significant with the potential approval and implementation of [TC39 Signals](https://github.com/tc39/proposal-signals) in the broader JavaScript ecosystem.
 
+[**Stackblitz DEMO**](https://stackblitz.com/edit/stackblitz-starters-76dm1ced?file=src%2Fmain.ts)
+
 ## Key Concepts Illustrated:
 
 - **Angular Signals:** The repository showcases how Angular's built-in reactivity system, Signals, can be leveraged to manage and propagate state changes between Angular components and custom elements.
